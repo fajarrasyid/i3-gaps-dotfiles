@@ -1,6 +1,6 @@
 #+title: Hello There, Welcome to GNU/Nord
 
-[[screenshot.png]]
+[[screen.png]]
 
 This is my back up of dotfiles, i don't use so much program to be honest.
  
