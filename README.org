@@ -1,0 +1,26 @@
+#+title: Hello There, Welcome to GNU/Nord
+
+[[screenshot.png]]
+
+This is my back up of dotfiles, i don't use so much program to be honest.
+ 
+* Window Manager
+
+So you just need this some programs to do it 
+
++ I3 Gaps : default WM ,coz had "gaps" in it
++ Rofi : The Launcher for programs
++ kitty : default terminal, i choose kitty can show image
++ zsh+oh-my-zsh : default shell ofc, also don't forget to install oh-my-zsh
++ vscodium : coding programs
++ pcmanfm-qt/pcmanfm-gtk3 : default file manager , yes i still use a gui file manager, if you prefer to had nice look i suggest to use pcmanfm-gtk3 instead pcmanfm-qt ,coz pcmanfm-qt theme little bit weird
++ mpv : for playing videos
++ htop : task manager ofc
++ bumblebee-status : default status bar for i3 bar, i using this coz is had many feature compared to i3blocks/status ,for more module u can find it in bumblebee-status site
++ cmus : default music player
++ xarchiver : for the archive manager
+
+That's it 
+Thanks For Coming!!
+
+oh yeah, almost forgot u can look for the nice wallpaper in [[file:.config/i3/rr.png][this]]

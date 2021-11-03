@@ -1,0 +1,16 @@
+file:///home/vengenzr/Downloads/s.txt {"mtime":1632243553230,"ctime":1632242032700,"size":1255,"etag":"37i2aapd619f","orphaned":false,"typeId":""}
+Saran linux buat pemula
+1. Linux Mint
+kenapa mint? mint sebenernya adalah turunan dari ubuntu dan bisa diakataken ini distro yg paling family friendly sih buat user yg baru migrate dari windows ke linux
+soalnya dari segi tampilanya juga mirip, instalasi mudah, dkk
+2. Xubuntu/Lubuntu/Ubuntu MATE
+distro sejuta umat, kebanyakan orang kalo baru migrasi ke linux pasti hijrahnya ke ubuntu. Tapi kenapa ane nyaraninya bukan Ubuntu "tok" melainkan Xubuntu/Lubuntu/Ubuntu MATE
+ya karena pada dasarnya ubuntu yg biasa itu lumayan berat Dekstop Enviromentnya (kalo ga tau apa DE anggap aja macem launcher android/ui android)
+secara juga tampilanya sekali lagi mirip2 sama windows jadinya memudahkan buat user yg baru migrasi. tapi kenapa ane taruh ubuntu setelah mint?
+secara software managernya mint lebih nyaman dan enteng
+3. Manjaro
+Manjaro adalah distro turunan dari ArchLinux , simplenya ini distro adalah ArchLinux versi "Gampang" nya kenapa gampang?
+ArchLinux biasanya misal mau instalasi,download aplikasi dkk itu biasanya terminal-based, kalo di manjaro ini GUI basednya dari penginstalan install software dkk
+dan karena Basicnya ArchLinux yang rolling release jadi user manjaro bisa dapet program yg paling baru
+4. MX Linux
+MX linux adalah distro debian
