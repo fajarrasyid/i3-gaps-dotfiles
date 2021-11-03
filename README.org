@@ -1,4 +1,4 @@
-#+title: Hello There, Welcome to GNU/Nord
+#+title: Hello There, Welcome to my GNU/Nord
 
 [[screen.png]]
 
